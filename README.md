@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🤔 &nbsp; Exploring and learning new technologies and developing apps along the way.
 - 🎓 &nbsp; Studying Computer Science at Punjab Technical University.
 - 💼 &nbsp; Passionate about Full Stack Web Development, Machine Learning and Cloud Architechture.
-- ✍️ &nbsp; I play football, lift weights at the gym and hang out a lot with friends.
+- :soccer: I play football, lift weights at the gym and hang out a lot with friends.
 
 <!-- <h3> 🛠 &nbsp;Tech Stack</h3>
 
