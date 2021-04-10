@@ -80,6 +80,11 @@ Here are some ideas to get you started:
 
 <br/>
 
+<h3>Publications (As a first Author) </h3>
+
+- 🔭 [Data science and analytics in agricultural development.](https://doi.org/10.36953/ECJ.2021.SE.2202)
+- 🌱 [Advancements in farming and related activities with the help of artificial intelligence: a review.](https://doi.org/10.36953/ECJ.2021.SE.2206)
+
 <h3>Connect with Me </h3> 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/karamveersidhu) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/KaramveerSidhu) [Portfolio](https://karamveer.netlify.app/)
