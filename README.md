@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 &nbsp; Currently, I am planning to give my free time to [Navidrome](https://github.com/navidrome/navidrome).
 - 🤔 &nbsp; Exploring and learning new technologies and developing apps along the way.
-- 🎓 &nbsp; Studying Computer Science at Punjab Technical University.
+- 🎓 &nbsp; Studying Computer Science at Baba Banda Singh Bahadur Engineering College.
 - 💼 &nbsp; Passionate about Full Stack Web Development, Machine Learning and Cloud Architechture.
 - :soccer: &nbsp; I play football, lift weights at the gym and hang out a lot with friends.
 
