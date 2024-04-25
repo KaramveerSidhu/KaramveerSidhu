@@ -87,4 +87,4 @@ Here are some ideas to get you started:
 
 <h3>Connect with Me </h3> 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/karamveersidhu) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/KaramveerSidhu) [Portfolio](https://karamveer.netlify.app/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/karamveersidhu) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/KaramveerSidhu) [Portfolio](https://karamveersidhu.com)
