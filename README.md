@@ -73,10 +73,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-
-
-<br/>
-
 <h3>Publications (As a first Author) </h3>
 
 - 🔭 [Data science and analytics in agricultural development.](https://doi.org/10.36953/ECJ.2021.SE.2202)
