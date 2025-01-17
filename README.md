@@ -71,8 +71,6 @@ Here are some ideas to get you started:
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 </p>
 
-<br/>
-
 <h3>Publications (As a first Author) </h3>
 
 - 🔭 [Data science and analytics in agricultural development.](https://doi.org/10.36953/ECJ.2021.SE.2202)
