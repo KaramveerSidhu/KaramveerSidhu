@@ -73,10 +73,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<a href="https://github.com/KaramveerSidhu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaramveerSidhu&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaramveerSidhu&theme=buefy&layout=compact" />
-</a>
+
 
 <br/>
 
