@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <h3>About Me </h3>
 
-- 🌱 &nbsp; Currently, I am planning to give my free time to [Navidrome](https://github.com/navidrome/navidrome).
+- 🌱 &nbsp; Currently, I am working on freelance projects.
 - 🤔 &nbsp; Exploring and learning new technologies and developing apps along the way.
-- 🎓 &nbsp; Studied Computer Science at Punjab Technical University.
+- 🎓 &nbsp; Studying Computer Science at University of Northern British Columbia.
 - 💼 &nbsp; Passionate about Full Stack Web Development, Machine Learning and Software Architechture.
 - :soccer: &nbsp; I play football, lift weights at the gym and hang out a lot with friends.
 
